@@ -1,0 +1,12 @@
+E:\Workspace\Ioc.Web\Ioc.Data\bin\Debug\Ioc.Data.dll.config
+E:\Workspace\Ioc.Web\Ioc.Data\bin\Debug\Ioc.Data.dll
+E:\Workspace\Ioc.Web\Ioc.Data\bin\Debug\Ioc.Data.pdb
+E:\Workspace\Ioc.Web\Ioc.Data\bin\Debug\EntityFramework.dll
+E:\Workspace\Ioc.Web\Ioc.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Workspace\Ioc.Web\Ioc.Data\bin\Debug\Ioc.Core.dll
+E:\Workspace\Ioc.Web\Ioc.Data\bin\Debug\Ioc.Core.pdb
+E:\Workspace\Ioc.Web\Ioc.Data\bin\Debug\EntityFramework.xml
+E:\Workspace\Ioc.Web\Ioc.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Workspace\Ioc.Web\Ioc.Data\obj\Debug\Ioc.Data.csprojResolveAssemblyReference.cache
+E:\Workspace\Ioc.Web\Ioc.Data\obj\Debug\Ioc.Data.dll
+E:\Workspace\Ioc.Web\Ioc.Data\obj\Debug\Ioc.Data.pdb

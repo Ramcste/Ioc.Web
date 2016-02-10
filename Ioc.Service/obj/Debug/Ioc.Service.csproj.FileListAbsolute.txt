@@ -1,0 +1,11 @@
+E:\Workspace\Ioc.Web\Ioc.Service\bin\Debug\Ioc.Service.dll
+E:\Workspace\Ioc.Web\Ioc.Service\bin\Debug\Ioc.Service.pdb
+E:\Workspace\Ioc.Web\Ioc.Service\bin\Debug\Ioc.Core.dll
+E:\Workspace\Ioc.Web\Ioc.Service\bin\Debug\Ioc.Data.dll
+E:\Workspace\Ioc.Web\Ioc.Service\bin\Debug\EntityFramework.dll
+E:\Workspace\Ioc.Web\Ioc.Service\bin\Debug\Ioc.Core.pdb
+E:\Workspace\Ioc.Web\Ioc.Service\bin\Debug\Ioc.Data.pdb
+E:\Workspace\Ioc.Web\Ioc.Service\bin\Debug\EntityFramework.xml
+E:\Workspace\Ioc.Web\Ioc.Service\obj\Debug\Ioc.Service.csprojResolveAssemblyReference.cache
+E:\Workspace\Ioc.Web\Ioc.Service\obj\Debug\Ioc.Service.dll
+E:\Workspace\Ioc.Web\Ioc.Service\obj\Debug\Ioc.Service.pdb

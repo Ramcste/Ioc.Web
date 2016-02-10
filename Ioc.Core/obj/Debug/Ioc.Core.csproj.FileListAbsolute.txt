@@ -1,0 +1,4 @@
+E:\Workspace\Ioc.Web\Ioc.Core\bin\Debug\Ioc.Core.dll
+E:\Workspace\Ioc.Web\Ioc.Core\bin\Debug\Ioc.Core.pdb
+E:\Workspace\Ioc.Web\Ioc.Core\obj\Debug\Ioc.Core.dll
+E:\Workspace\Ioc.Web\Ioc.Core\obj\Debug\Ioc.Core.pdb
